@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git-navbar/static/css/main.c1ab7ff5.css",
+    "main.js": "/git-navbar/static/js/main.49545193.js",
+    "static/js/787.c20e9572.chunk.js": "/git-navbar/static/js/787.c20e9572.chunk.js",
+    "index.html": "/git-navbar/index.html",
+    "main.c1ab7ff5.css.map": "/git-navbar/static/css/main.c1ab7ff5.css.map",
+    "main.49545193.js.map": "/git-navbar/static/js/main.49545193.js.map",
+    "787.c20e9572.chunk.js.map": "/git-navbar/static/js/787.c20e9572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ab7ff5.css",
+    "static/js/main.49545193.js"
+  ]
+}
